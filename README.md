@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Header](./banner.png)
 
-I'm Trent from Alhambra, CA and I am a software developer. I love working with React on the front end and C#/.Net on the back end. I have several frontend practice projects and a large capstone project (ReStore) and am currently working on a second capstone project (ActivitiesApp).
+I'm Trent from Alhambra, CA and I am a software developer. I love working with React on the front end and C#/.Net on the back end. I have several frontend practice projects and a large projects from courses, ReStore and ActivitiesApp. I am currently working on a large capstone project on my own (How2Help).
 
 Skills: REACT / JS / HTML / CSS / C# / .NET / SQL / PostMan / TypeScript / MobX / SignalR / Redux / Docker
 
