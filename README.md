@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Header](./banner.png)
 
-I'm Trent from Alhambra, CA and I am a software developer. I love working with React/Nextjs on the front end and Supabase on the back end.
+![JCW_Logo_Stacked_Color](https://github.com/user-attachments/assets/8f45e6cb-e406-4681-b375-2ba344daf9b8)
+
+I'm Trent from Alhambra, CA and I am the founder of Jovian Cloud Works. We are tech consulting firm that helps small and medium-sized businesses in the San Gabriel Valley area streamline operations, automate workflows, and scale with confidence through strategic IT planning, custom internal tools, and ongoing tech support.
 
 Skills: Nextjs / REACT / Typescript / Tanstack Query (React Query) / Tailwind / Material UI /  Mock Service Worker / React Hook Form / C# / .NET / SQL / Postman / MobX / SignalR / Redux / Docker
 
