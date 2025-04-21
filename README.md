@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![JCW_Logo_Horizontal_Inverse](https://github.com/user-attachments/assets/3a898b7f-316f-426b-8af5-b268529807d6)
+
+![JCW_Logo_Horizontal_Inverse](https://github.com/user-attachments/assets/9b86b956-a658-4ad3-b32e-b0c06ca9dad3)
 
 
 I'm Trent from Alhambra, CA and I am the founder of Jovian Cloud Works. We are tech consulting firm that helps small and medium-sized businesses in the San Gabriel Valley area streamline operations, automate workflows, and scale with confidence through strategic IT planning, custom internal tools, and ongoing tech support.
